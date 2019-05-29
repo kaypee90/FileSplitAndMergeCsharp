@@ -1,0 +1,11 @@
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\bin\Debug\netcoreapp2.1\TestBlobCompression.deps.json
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\bin\Debug\netcoreapp2.1\TestBlobCompression.runtimeconfig.json
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\bin\Debug\netcoreapp2.1\TestBlobCompression.runtimeconfig.dev.json
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\bin\Debug\netcoreapp2.1\TestBlobCompression.dll
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\obj\Debug\netcoreapp2.1\TestBlobCompression.csprojAssemblyReference.cache
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\obj\Debug\netcoreapp2.1\TestBlobCompression.csproj.CoreCompileInputs.cache
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\obj\Debug\netcoreapp2.1\TestBlobCompression.AssemblyInfoInputs.cache
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\obj\Debug\netcoreapp2.1\TestBlobCompression.AssemblyInfo.cs
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\bin\Debug\netcoreapp2.1\TestBlobCompression.pdb
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\obj\Debug\netcoreapp2.1\TestBlobCompression.dll
+C:\Users\spDevGH1\source\repos\TestBlobCompression\TestBlobCompression\obj\Debug\netcoreapp2.1\TestBlobCompression.pdb
